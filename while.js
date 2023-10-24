@@ -31,7 +31,7 @@ for ( var i=0; i<numbers.length; i++)
      var num=numbers[i];
     console.log(num);
 }
-//reverse value
+//we can do it for reverse value 
 
 for ( var i=10; i>=1; i--)
 {
